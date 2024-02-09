@@ -1,8 +1,26 @@
-title: Just the Docs Template
+title: Vonage <br />@ 4YFN 2024
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://vonage-community.github.io/4yfn-2024-workshops
+logo: /assets/images/vonage.svg
+favicon_ico: /assets/images/favicon.ico
+
+source: docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Vonage Developer Portal":
+    - "//developer.vonage.com"
+aux_links_new_tab: true
+
+enable_copy_code_button: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/Vonage-Community/4yfn-2024-workshops"
+gh_edit_branch: "main"
+
+
